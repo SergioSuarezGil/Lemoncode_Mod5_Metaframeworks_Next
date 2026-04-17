@@ -6,7 +6,8 @@
 ._*
 
 # Custom folder icons
-Icon
+Icon
+
 
 # Volume root files
 .DocumentRevisions-V100
@@ -57,6 +58,8 @@ build/Release
 # Framework build output and caches
 .cache
 .parcel-cache
+
+# Build output Next.js
 .next
 out/
 .nuxt
